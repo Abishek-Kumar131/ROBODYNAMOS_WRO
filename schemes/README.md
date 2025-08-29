@@ -1,4 +1,9 @@
 Electromechanical diagrams
 ====
 
-This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
+Wiring references for ROBODYNAMOS:
+
+- diag.png — system/block diagram (sensors, ESP32, motor driver, power)
+- pcb_con.png — connector/pinout reference
+
+Use these while assembling and when verifying polarity and signals.

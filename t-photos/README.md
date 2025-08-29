@@ -1,4 +1,7 @@
-Team's photos
+Team photos
 ====
 
-This directory must contain 2 photos of the team (an official one and one funny photo with all team members)
+Contains two images of the ROBODYNAMOS team:
+
+- img1.jpeg — official group photo
+- img2.jpeg — candid/fun photo

@@ -1,5 +1,5 @@
 Video
 ====
 
-This directory must contain the video.md file with a URL to YouTube (should be either public or accessible by link) showing the vehicle driving autonomously.
-That part of the video where driving demonstration exists must be at least 30 seconds in length.
+Provide a link in `video.md` to the ROBODYNAMOS demo (YouTube: public or unlisted).
+Include at least 30 seconds of continuous autonomous driving.
