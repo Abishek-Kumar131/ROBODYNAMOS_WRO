@@ -25,7 +25,7 @@ Team roster
 | Member      | S. Madesh Sai Pratap | ECE            | 953624106057   |
 
 - Team name: ROBODYNAMOS
-- Team ID: 1142 &
+- Team ID: 1142 
 
 Project overview
 ----
