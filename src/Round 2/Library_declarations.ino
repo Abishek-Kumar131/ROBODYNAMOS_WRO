@@ -149,6 +149,16 @@ void US_Values(int &f, int &f1, int &f2, int &b, int &l, int &r)
   r = right_us;
 }
 
+// Round 2 specific functions
+void get_US_Values(int &f, int &f1, int &f2, int &b, int &l, int &r)
+{
+  US_Values(f, f1, f2, b, l, r);
+}
+
+int get_CS_Values() {
+  return front_colour_sensor();
+}
+
 // ########### Setup ############################################################################################################ //
 void setup() {
   Serial.begin(115200);
