@@ -19,13 +19,13 @@ Team roster
 
 | Role        | Name                | Department     | Register No.   |
 | ----------- | ------------------- | -------------- | -------------- |
-| Mentor      | Dr. M. Gomathy      | ASP - III/CSBS | —              |
-| Member      | V. Abhisek Kumar    | CSBS           | 953624244003   |
+| Mentor      | Dr. M. Gomathy Nayagam     | ASP /CSBS | —              |
+| Member      | V. Abishek Kumar    | CSBS           | 953624244003   |
 | Member      | D. Mirjone             | MECH           | 953624114018   |
 | Member      | S. Madesh Sai Pratap | ECE            | 953624106057   |
 
 - Team name: ROBODYNAMOS
-- Team ID: 1142 &
+- Team ID: 1142 
 
 Project overview
 ----
@@ -66,7 +66,7 @@ Notes for reviewers
 Acknowledgements
 ----
 
-Guided by our mentor, Dr. M. Gomathy (ASP - III/CSBS), with contributions from CSBS, MECH, and ECE team members.
+Guided by our mentor, Dr. M. Gomathy Nayagam (ASP /CSBS), with contributions from CSBS, MECH, and ECE team members.
 
 ---
 
