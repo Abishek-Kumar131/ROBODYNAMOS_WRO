@@ -30,10 +30,10 @@ Our platform is a camera-assisted, sensor-aided autonomous car featuring:
 * Final parking maneuver after laps
 
 5. Objectives
-1. Design a stable and reliable autonomous vehicle.
-2. Integrate ESP32-based control with modular software.
-3. Use sensors + vision cues for robust lane following and obstacle handling.
-4. Ensure easy reproducibility with open schematics, CAD models, and documented firmware.
+  . Design a stable and reliable autonomous vehicle.
+  . Integrate ESP32-based control with modular software.
+  . Use sensors + vision cues for robust lane following and obstacle handling.
+  . Ensure easy reproducibility with open schematics, CAD models, and documented firmware.
 
 6. Hardware System
 6.1 Central Controller
